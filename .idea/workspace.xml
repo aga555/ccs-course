@@ -48,7 +48,7 @@
       <updated>1586267198793</updated>
       <workItem from="1586267202938" duration="2591000" />
       <workItem from="1586288918112" duration="4000" />
-      <workItem from="1586379675151" duration="16465000" />
+      <workItem from="1586379675151" duration="16777000" />
     </task>
     <task id="LOCAL-00001" summary="#position relative">
       <created>1586437147197</created>
@@ -113,7 +113,14 @@
       <option name="project" value="LOCAL" />
       <updated>1586444838627</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="#linear gradient">
+      <created>1586445215653</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1586445215653</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -140,6 +147,7 @@
     <MESSAGE value="#overflow: auto;" />
     <MESSAGE value="#backgorind - parallax effect" />
     <MESSAGE value="#backgornd" />
-    <option name="LAST_COMMIT_MESSAGE" value="#backgornd" />
+    <MESSAGE value="#linear gradient" />
+    <option name="LAST_COMMIT_MESSAGE" value="#linear gradient" />
   </component>
 </project>
