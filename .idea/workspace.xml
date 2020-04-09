@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d38d862e-af04-4d7c-9fc2-1716346605ae" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -48,7 +49,7 @@
       <updated>1586267198793</updated>
       <workItem from="1586267202938" duration="2591000" />
       <workItem from="1586288918112" duration="4000" />
-      <workItem from="1586379675151" duration="16777000" />
+      <workItem from="1586379675151" duration="22528000" />
     </task>
     <task id="LOCAL-00001" summary="#position relative">
       <created>1586437147197</created>
@@ -120,7 +121,14 @@
       <option name="project" value="LOCAL" />
       <updated>1586445215653</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="#background  + linear gradeint filter color effect">
+      <created>1586445950451</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1586445950451</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -148,6 +156,7 @@
     <MESSAGE value="#backgorind - parallax effect" />
     <MESSAGE value="#backgornd" />
     <MESSAGE value="#linear gradient" />
-    <option name="LAST_COMMIT_MESSAGE" value="#linear gradient" />
+    <MESSAGE value="#background  + linear gradeint filter color effect" />
+    <option name="LAST_COMMIT_MESSAGE" value="#background  + linear gradeint filter color effect" />
   </component>
 </project>
