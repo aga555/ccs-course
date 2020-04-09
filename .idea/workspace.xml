@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d38d862e-af04-4d7c-9fc2-1716346605ae" name="Default Changelist" comment="">
+    <list default="true" id="d38d862e-af04-4d7c-9fc2-1716346605ae" name="Default Changelist" comment="#transition width+duration+delay">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -49,7 +49,7 @@
       <updated>1586267198793</updated>
       <workItem from="1586267202938" duration="2591000" />
       <workItem from="1586288918112" duration="4000" />
-      <workItem from="1586379675151" duration="23989000" />
+      <workItem from="1586379675151" duration="24863000" />
     </task>
     <task id="LOCAL-00001" summary="#position relative">
       <created>1586437147197</created>
@@ -135,7 +135,14 @@
       <option name="project" value="LOCAL" />
       <updated>1586462172292</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="#transition width+duration+delay">
+      <created>1586463916436</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1586463916437</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -165,6 +172,7 @@
     <MESSAGE value="#linear gradient" />
     <MESSAGE value="#background  + linear gradeint filter color effect" />
     <MESSAGE value="#background  box shadow" />
-    <option name="LAST_COMMIT_MESSAGE" value="#background  box shadow" />
+    <MESSAGE value="#transition width+duration+delay" />
+    <option name="LAST_COMMIT_MESSAGE" value="#transition width+duration+delay" />
   </component>
 </project>
