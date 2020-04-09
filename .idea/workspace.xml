@@ -44,7 +44,7 @@
       <updated>1586267198793</updated>
       <workItem from="1586267202938" duration="2591000" />
       <workItem from="1586288918112" duration="4000" />
-      <workItem from="1586379675151" duration="13204000" />
+      <workItem from="1586379675151" duration="13840000" />
     </task>
     <task id="LOCAL-00001" summary="#position relative">
       <created>1586437147197</created>
@@ -74,7 +74,21 @@
       <option name="project" value="LOCAL" />
       <updated>1586438083112</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="#overflow hidden">
+      <created>1586441204206</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1586441204206</updated>
+    </task>
+    <task id="LOCAL-00006" summary="#overflow srroll">
+      <created>1586441332734</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1586441332734</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -96,6 +110,8 @@
     <MESSAGE value="#position absolute" />
     <MESSAGE value="#position fixed" />
     <MESSAGE value="#position sticky" />
-    <option name="LAST_COMMIT_MESSAGE" value="#position sticky" />
+    <MESSAGE value="#overflow hidden" />
+    <MESSAGE value="#overflow srroll" />
+    <option name="LAST_COMMIT_MESSAGE" value="#overflow srroll" />
   </component>
 </project>
