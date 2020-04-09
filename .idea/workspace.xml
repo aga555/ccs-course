@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d38d862e-af04-4d7c-9fc2-1716346605ae" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -49,7 +48,7 @@
       <updated>1586267198793</updated>
       <workItem from="1586267202938" duration="2591000" />
       <workItem from="1586288918112" duration="4000" />
-      <workItem from="1586379675151" duration="25272000" />
+      <workItem from="1586379675151" duration="25536000" />
     </task>
     <task id="LOCAL-00001" summary="#position relative">
       <created>1586437147197</created>
@@ -149,7 +148,21 @@
       <option name="project" value="LOCAL" />
       <updated>1586464611346</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="#transition+ transform -&gt; move">
+      <created>1586465120256</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1586465120256</updated>
+    </task>
+    <task id="LOCAL-00016" summary="#transition+ transform :rotate">
+      <created>1586465219828</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1586465219828</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -181,6 +194,8 @@
     <MESSAGE value="#background  box shadow" />
     <MESSAGE value="#transition width+duration+delay" />
     <MESSAGE value="#transition background-color + width ;-)" />
-    <option name="LAST_COMMIT_MESSAGE" value="#transition background-color + width ;-)" />
+    <MESSAGE value="#transition+ transform -&gt; move" />
+    <MESSAGE value="#transition+ transform :rotate" />
+    <option name="LAST_COMMIT_MESSAGE" value="#transition+ transform :rotate" />
   </component>
 </project>
