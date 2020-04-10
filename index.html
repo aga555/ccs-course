@@ -24,21 +24,37 @@
 
     position: relative;
     animation-name: anim;
-    animation-duration:4s ;
+    animation-duration: 4s;
   }
 
   @keyframes anim {
 
-  from {
-    left: 0;
-    top: 0;
-  }
+    0% {
+      left: 0;
+      top: 0;
+    }
 
-  to {
-    background-color: pink;
-    left: 500px;
-    top: 0
-  }
+    25% {
+      background-color: pink;
+      left: 500px;
+      top: 0
+    }
+
+    50% {
+      background-color: royalblue;
+      left: 500px;
+      top: 500px
+    }
+    75% {
+      background-color: forestgreen;
+      left: 0;
+      top: 500px
+    }
+
+    100% {
+      left: 0;
+      top: 0;
+    }
 
   }
 
