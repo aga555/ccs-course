@@ -21,18 +21,27 @@
     width: 200px;
     height: 200px;
     background-color: #ff822f;
-    font-size: 60px;
-    color: white;
-    margin: 350px auto;
-    text-align: center;
-    padding-top: 55px;
-    box-sizing: border-box;
-    transition: transform 1s;
+
+    position: relative;
+    animation-name: anim;
+    animation-duration:4s ;
   }
 
-  .box:hover {
-    transform: skew(30deg,20deg);
+  @keyframes anim {
+
+  from {
+    left: 0;
+    top: 0;
   }
+
+  to {
+    background-color: pink;
+    left: 500px;
+    top: 0
+  }
+
+  }
+
 </style>
 <body>
 <div class="box">
