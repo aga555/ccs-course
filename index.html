@@ -17,57 +17,32 @@
   <meta name="theme-color" content="#fafafa">
 </head>
 <style>
-  .box {
-    width: 200px;
-    height: 200px;
-    background-color: #ff822f;
-
-    position: relative;
-    animation-name: anim;
-    animation-duration: 4s;
-    animation-delay: 2s;
-/*    animation-iteration-count: 5;*/
-/*    animation-iteration-count: infinite;*/
-  /*  animation-direction: reverse ;
-    animation-timing-function: ease-in;*/
-    animation-fill-mode: forwards;
+  .container {
+    margin-top: 50px;
+    padding: 20px 0;
+    background-color: pink;
+    display: flex;
+    flex-direction:row;
+    flex-wrap: wrap;
+    flex-flow: row wrap;
   }
 
-  @keyframes anim {
-
-    0% {
-      left: 300px;
-      top: 0;
-    }
-
-    25% {
-      background-color: pink;
-      left: 500px;
-      top: 0
-    }
-
-    50% {
-      background-color: royalblue;
-      left: 500px;
-      top: 500px
-    }
-    75% {
-      background-color: forestgreen;
-      left: 0;
-      top: 500px
-    }
-
-    100% {
-      left: 0;
-      top: 0;
-    }
-
+  .item {
+    padding: 30px;
+    margin: 10px;
+    background-color: forestgreen;
+    text-align: center;
+    color: #cccccc;
+    font-size: 30px;
   }
-
 </style>
 <body>
-<div class="box">
-  BOX
+<div class="container">
+  <div class="item item-1">A</div>
+  <div class="item item-2">B</div>
+  <div class="item item-3">C</div>
+  <div class="item item-4">D</div>
+  <div class="item item-5">E</div>
 </div>
 </body>
 
