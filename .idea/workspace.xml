@@ -48,7 +48,7 @@
       <updated>1586267198793</updated>
       <workItem from="1586267202938" duration="2591000" />
       <workItem from="1586288918112" duration="4000" />
-      <workItem from="1586379675151" duration="35261000" />
+      <workItem from="1586379675151" duration="36125000" />
     </task>
     <task id="LOCAL-00001" summary="#position relative">
       <created>1586437147197</created>
@@ -225,7 +225,21 @@
       <option name="project" value="LOCAL" />
       <updated>1586531652628</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="# flex align-items">
+      <created>1586531969421</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1586531969421</updated>
+    </task>
+    <task id="LOCAL-00027" summary="# flex align-content">
+      <created>1586532115253</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1586532115253</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -243,7 +257,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="#position relative" />
     <MESSAGE value="#position absolute" />
     <MESSAGE value="#position fixed" />
     <MESSAGE value="#position sticky" />
@@ -267,6 +280,8 @@
     <MESSAGE value="# @keyframes anim moving square part2" />
     <MESSAGE value="# flex row wrap" />
     <MESSAGE value="# flex justify-content" />
-    <option name="LAST_COMMIT_MESSAGE" value="# flex justify-content" />
+    <MESSAGE value="# flex align-items" />
+    <MESSAGE value="# flex align-content" />
+    <option name="LAST_COMMIT_MESSAGE" value="# flex align-content" />
   </component>
 </project>
