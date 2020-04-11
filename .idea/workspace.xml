@@ -4,34 +4,6 @@
     <list default="true" id="d38d862e-af04-4d7c-9fc2-1716346605ae" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hotel-project/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/hotel-project/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hotel-project/img/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/hotel-project/image/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hotel-project/img/about-us-img-1.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/hotel-project/image/about-us-img-1.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hotel-project/img/about-us-img-2.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/hotel-project/image/about-us-img-2.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hotel-project/img/about-us-img-3.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/hotel-project/image/about-us-img-3.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hotel-project/img/about-us-img-4.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/hotel-project/image/about-us-img-4.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hotel-project/img/crown.png" beforeDir="false" afterPath="$PROJECT_DIR$/hotel-project/image/crown.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hotel-project/img/customer-1.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/hotel-project/image/customer-1.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hotel-project/img/customer-2.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/hotel-project/image/customer-2.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hotel-project/img/double-room.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/hotel-project/image/double-room.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hotel-project/img/gallery-img-1.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/hotel-project/image/gallery-img-1.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hotel-project/img/gallery-img-2.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/hotel-project/image/gallery-img-2.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hotel-project/img/gallery-img-3.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/hotel-project/image/gallery-img-3.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hotel-project/img/gallery-img-4.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/hotel-project/image/gallery-img-4.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hotel-project/img/gallery-img-5.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/hotel-project/image/gallery-img-5.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hotel-project/img/gallery-img-6.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/hotel-project/image/gallery-img-6.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hotel-project/img/header-1.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/hotel-project/image/header-1.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hotel-project/img/header-2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/hotel-project/image/header-2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hotel-project/img/header-3.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/hotel-project/image/header-3.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hotel-project/img/lux.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/hotel-project/image/lux.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hotel-project/img/nav-bg.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/hotel-project/image/nav-bg.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hotel-project/img/news-events-img-1.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/hotel-project/image/news-events-img-1.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hotel-project/img/news-events-img-2.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/hotel-project/image/news-events-img-2.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hotel-project/img/news-events-img-3.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/hotel-project/image/news-events-img-3.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hotel-project/img/news-events-img-4.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/hotel-project/image/news-events-img-4.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hotel-project/img/news-events-img-5.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/hotel-project/image/news-events-img-5.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hotel-project/img/news-events-img-6.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/hotel-project/image/news-events-img-6.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hotel-project/img/single-room.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/hotel-project/image/single-room.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hotel-project/img/vip.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/hotel-project/image/vip.jpeg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hotel-project/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/hotel-project/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -82,7 +54,7 @@
       <workItem from="1586267202938" duration="2591000" />
       <workItem from="1586288918112" duration="4000" />
       <workItem from="1586379675151" duration="39593000" />
-      <workItem from="1586589153298" duration="2063000" />
+      <workItem from="1586589153298" duration="5226000" />
     </task>
     <task id="LOCAL-00001" summary="#position relative">
       <created>1586437147197</created>
@@ -308,7 +280,14 @@
       <option name="project" value="LOCAL" />
       <updated>1586589689734</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="#navigation,search input">
+      <created>1586591248639</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1586591248639</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -328,7 +307,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="#overflow: auto;" />
     <MESSAGE value="#backgorind - parallax effect" />
     <MESSAGE value="#backgornd" />
     <MESSAGE value="#linear gradient" />
@@ -353,6 +331,7 @@
     <MESSAGE value="# flex grow" />
     <MESSAGE value="# flex shrink" />
     <MESSAGE value="# project Grand Hotel" />
-    <option name="LAST_COMMIT_MESSAGE" value="# project Grand Hotel" />
+    <MESSAGE value="#navigation,search input" />
+    <option name="LAST_COMMIT_MESSAGE" value="#navigation,search input" />
   </component>
 </project>
