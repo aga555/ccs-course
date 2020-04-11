@@ -2,8 +2,41 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d38d862e-af04-4d7c-9fc2-1716346605ae" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/hotel-project/icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hotel-project/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/course/.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitattributes" beforeDir="false" afterPath="$PROJECT_DIR$/course/.gitattributes" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/course/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.htaccess" beforeDir="false" afterPath="$PROJECT_DIR$/course/.htaccess" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/course/404.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LICENSE.txt" beforeDir="false" afterPath="$PROJECT_DIR$/course/LICENSE.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/browserconfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/course/browserconfig.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/course/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/normalize.css" beforeDir="false" afterPath="$PROJECT_DIR$/course/css/normalize.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/TOC.md" beforeDir="false" afterPath="$PROJECT_DIR$/course/doc/TOC.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/css.md" beforeDir="false" afterPath="$PROJECT_DIR$/course/doc/css.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/extend.md" beforeDir="false" afterPath="$PROJECT_DIR$/course/doc/extend.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/faq.md" beforeDir="false" afterPath="$PROJECT_DIR$/course/doc/faq.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/html.md" beforeDir="false" afterPath="$PROJECT_DIR$/course/doc/html.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/js.md" beforeDir="false" afterPath="$PROJECT_DIR$/course/doc/js.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/misc.md" beforeDir="false" afterPath="$PROJECT_DIR$/course/doc/misc.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/usage.md" beforeDir="false" afterPath="$PROJECT_DIR$/course/doc/usage.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/course/favicon.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/humans.txt" beforeDir="false" afterPath="$PROJECT_DIR$/course/humans.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/course/icon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/course/img/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/1599_Kepler22b.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/course/img/1599_Kepler22b.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/vege.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/course/img/vege.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/course/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/course/js/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/plugins.js" beforeDir="false" afterPath="$PROJECT_DIR$/course/js/plugins.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/vendor/jquery-3.4.1.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/course/js/vendor/jquery-3.4.1.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/vendor/modernizr-3.8.0.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/course/js/vendor/modernizr-3.8.0.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/robots.txt" beforeDir="false" afterPath="$PROJECT_DIR$/course/robots.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/site.webmanifest" beforeDir="false" afterPath="$PROJECT_DIR$/course/site.webmanifest" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tile-wide.png" beforeDir="false" afterPath="$PROJECT_DIR$/course/tile-wide.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tile.png" beforeDir="false" afterPath="$PROJECT_DIR$/course/tile.png" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -22,6 +55,9 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\admin\WebstormProjects\untitled3\hotel-project" />
+      <recent name="C:\Users\admin\WebstormProjects\untitled3" />
+      <recent name="C:\Users\admin\WebstormProjects\untitled3\course" />
       <recent name="C:\Users\admin\WebstormProjects\untitled3\img" />
     </key>
   </component>
@@ -49,7 +85,8 @@
       <updated>1586267198793</updated>
       <workItem from="1586267202938" duration="2591000" />
       <workItem from="1586288918112" duration="4000" />
-      <workItem from="1586379675151" duration="39552000" />
+      <workItem from="1586379675151" duration="39593000" />
+      <workItem from="1586589153298" duration="394000" />
     </task>
     <task id="LOCAL-00001" summary="#position relative">
       <created>1586437147197</created>
@@ -261,7 +298,14 @@
       <option name="project" value="LOCAL" />
       <updated>1586534418228</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="# flex shrink">
+      <created>1586547234324</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1586547234324</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -272,14 +316,15 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="#overflow hidden" />
     <MESSAGE value="#overflow srroll" />
     <MESSAGE value="#overflow: auto;" />
     <MESSAGE value="#backgorind - parallax effect" />
@@ -304,6 +349,7 @@
     <MESSAGE value="# flex item order" />
     <MESSAGE value="# flex item align-self" />
     <MESSAGE value="# flex grow" />
-    <option name="LAST_COMMIT_MESSAGE" value="# flex grow" />
+    <MESSAGE value="# flex shrink" />
+    <option name="LAST_COMMIT_MESSAGE" value="# flex shrink" />
   </component>
 </project>
