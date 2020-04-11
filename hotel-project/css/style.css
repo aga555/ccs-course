@@ -25,6 +25,7 @@ body {
     flex-direction: column;
     display: flex;
     align-items: center;
+    z-index: 10;
 }
 
 .menu-icon {
@@ -81,7 +82,7 @@ body {
 /*navigation*/
 
 .navigation {
-    margin-left: 8rem;
+    left: -32rem;
     position: fixed;
     width: 40rem;
     height: 100%;
@@ -91,6 +92,7 @@ body {
     flex-direction: column;
     display: flex;
     align-items: center;
+    transition: left .8s cubic-bezier(1,0,0,1);
 
 
 }
@@ -173,7 +175,7 @@ body {
     position: absolute;
     top: 1rem;
     left: -4rem;
-    transition: width 0.5s cubic-bezier(1,0,0,1);
+    transition:left 0.8s cubic-bezier(1,0,0,1);
 }
 
 .navigation-link::after {
@@ -200,6 +202,10 @@ width: 3rem;
     font-size:1.2rem;
     margin-bottom: 1.5rem;
 }
+.checkbox:checked~.navigation{
+    left: 8rem;
+}
+
 /*endOfNavbigation
 *//*endOfNavar*/
 

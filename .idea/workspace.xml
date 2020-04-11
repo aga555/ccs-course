@@ -54,7 +54,7 @@
       <workItem from="1586267202938" duration="2591000" />
       <workItem from="1586288918112" duration="4000" />
       <workItem from="1586379675151" duration="39593000" />
-      <workItem from="1586589153298" duration="5226000" />
+      <workItem from="1586589153298" duration="6251000" />
     </task>
     <task id="LOCAL-00001" summary="#position relative">
       <created>1586437147197</created>
@@ -287,7 +287,14 @@
       <option name="project" value="LOCAL" />
       <updated>1586591248639</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="#navigation list hoover effect with transition before after  and cubic-beizer">
+      <created>1586597663830</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1586597663830</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -307,7 +314,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="#backgorind - parallax effect" />
     <MESSAGE value="#backgornd" />
     <MESSAGE value="#linear gradient" />
     <MESSAGE value="#background  + linear gradeint filter color effect" />
@@ -332,6 +338,7 @@
     <MESSAGE value="# flex shrink" />
     <MESSAGE value="# project Grand Hotel" />
     <MESSAGE value="#navigation,search input" />
-    <option name="LAST_COMMIT_MESSAGE" value="#navigation,search input" />
+    <MESSAGE value="#navigation list hoover effect with transition before after  and cubic-beizer" />
+    <option name="LAST_COMMIT_MESSAGE" value="#navigation list hoover effect with transition before after  and cubic-beizer" />
   </component>
 </project>
