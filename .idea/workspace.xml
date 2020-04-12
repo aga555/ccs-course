@@ -4,7 +4,6 @@
     <list default="true" id="d38d862e-af04-4d7c-9fc2-1716346605ae" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hotel-project/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/hotel-project/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hotel-project/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/hotel-project/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -57,7 +56,7 @@
       <workItem from="1586589153298" duration="9125000" />
       <workItem from="1586605144430" duration="3379000" />
       <workItem from="1586614073908" duration="2846000" />
-      <workItem from="1586620896866" duration="20520000" />
+      <workItem from="1586620896866" duration="21719000" />
     </task>
     <task id="LOCAL-00001" summary="#position relative">
       <created>1586437147197</created>
@@ -395,7 +394,14 @@
       <option name="project" value="LOCAL" />
       <updated>1586687598013</updated>
     </task>
-    <option name="localTasksCounter" value="49" />
+    <task id="LOCAL-00049" summary="#styling cards">
+      <created>1586688332258</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1586688332258</updated>
+    </task>
+    <option name="localTasksCounter" value="50" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -415,7 +421,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="# flex row wrap" />
     <MESSAGE value="# flex justify-content" />
     <MESSAGE value="# flex align-items" />
     <MESSAGE value="# flex align-content" />
@@ -440,6 +445,7 @@
     <MESSAGE value="#markup rooms section" />
     <MESSAGE value="#fix create common styles" />
     <MESSAGE value="#create rooms wraper as dflexbox container: diplay flex, flexwrap" />
-    <option name="LAST_COMMIT_MESSAGE" value="#create rooms wraper as dflexbox container: diplay flex, flexwrap" />
+    <MESSAGE value="#styling cards" />
+    <option name="LAST_COMMIT_MESSAGE" value="#styling cards" />
   </component>
 </project>
