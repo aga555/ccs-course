@@ -432,20 +432,57 @@ body {
 .rooms {
     margin-left: 8rem;
 }
-.rooms-card-wrapper{
+
+.rooms-card-wrapper {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
 }
+
 .room-card {
     width: 60rem;
     margin: 5rem;
     background-color: #151411;
+    box-shadow: 0 3rem 6rem rgba(0, 0, 0, .3);
 }
 
 .room-img {
     width: 100%;
 }
 
+.room-card-content {
+    color: #ddd;
+    padding: 2rem;
+}
+
+.room-card-heading {
+    margin: 0;
+    font-size: 3rem;
+    font-weight: 300;
+}
+
+.room-card-paragraph {
+    font-size: 1.5rem;
+    color: #777;
+}
+
+.room-price {
+    font-size: 5rem;
+    font-weight: 300;
+    text-align: right;
+    margin: 0;
+}
+.room-card-btn{
+    width: 15rem;
+    padding: 1.5rem 1rem;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.2rem;
+    text-transform: uppercase;
+    color: #deaa86;
+    border-radius: 10rem;
+    background-color: transparent;
+    border: 1px solid #deaa86;;
+    outline: none;
+}
 /*end of rooms*/
 
