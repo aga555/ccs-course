@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d38d862e-af04-4d7c-9fc2-1716346605ae" name="Default Changelist" comment="# markup footer">
+    <list default="true" id="d38d862e-af04-4d7c-9fc2-1716346605ae" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hotel-project/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/hotel-project/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hotel-project/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/hotel-project/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -56,14 +57,7 @@
       <workItem from="1586589153298" duration="9125000" />
       <workItem from="1586605144430" duration="3379000" />
       <workItem from="1586614073908" duration="2846000" />
-      <workItem from="1586620896866" duration="27605000" />
-    </task>
-    <task id="LOCAL-00005" summary="#overflow hidden">
-      <created>1586441204206</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1586441204206</updated>
+      <workItem from="1586620896866" duration="28793000" />
     </task>
     <task id="LOCAL-00006" summary="#overflow srroll">
       <created>1586441332734</created>
@@ -401,7 +395,14 @@
       <option name="project" value="LOCAL" />
       <updated>1586702199467</updated>
     </task>
-    <option name="localTasksCounter" value="54" />
+    <task id="LOCAL-00054" summary="# foter list css">
+      <created>1586705331785</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1586705331785</updated>
+    </task>
+    <option name="localTasksCounter" value="55" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -421,7 +422,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="# flex item align-self" />
     <MESSAGE value="# flex grow" />
     <MESSAGE value="# flex shrink" />
     <MESSAGE value="# project Grand Hotel" />
@@ -446,6 +446,7 @@
     <MESSAGE value="#markup cusmoer section" />
     <MESSAGE value="# cusmoer section css" />
     <MESSAGE value="# markup footer" />
-    <option name="LAST_COMMIT_MESSAGE" value="# markup footer" />
+    <MESSAGE value="# foter list css" />
+    <option name="LAST_COMMIT_MESSAGE" value="# foter list css" />
   </component>
 </project>
