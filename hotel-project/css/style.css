@@ -335,19 +335,6 @@ body {
 
 }
 
-.small-underline {
-    width: 9rem;
-    height: .1rem;
-    background: #deaa86;
-    margin: 0 auto 1rem auto;
-}
-
-.big-underline {
-    width: 20rem;
-    height: .1rem;
-    background: #deaa86;
-}
-
 .sub-heading {
     font-size: 3.5rem;
     font-weight: 300;
@@ -410,5 +397,37 @@ body {
 .image-4 {
     transform: translate(-30%, -30%);
 }
+/*common header*/
+.common-header{
+    padding: 5rem;
+    text-align: center;
+    color: #b85d1c;
+}
+.common-heading{
+    font-size: 4rem;
+    font-weight: 300;
+    letter-spacing: 1.2rem;
+}
+.small-underline {
+    width: 9rem;
+    height: .1rem;
+    background:#b85d1c;
+    margin: 0 auto 1rem auto;
+}
 
+.big-underline {
+    width: 20rem;
+    height: .1rem;
+    margin: auto;
+    background: #b85d1c;
+}
+
+/*end of common header*/
+/*rooms*/
+.rooms{
+    margin-left: 8rem;
+}
+
+
+/*end of rooms*/
 
