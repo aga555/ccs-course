@@ -57,7 +57,7 @@
       <workItem from="1586589153298" duration="9125000" />
       <workItem from="1586605144430" duration="3379000" />
       <workItem from="1586614073908" duration="2846000" />
-      <workItem from="1586620896866" duration="7153000" />
+      <workItem from="1586620896866" duration="7676000" />
     </task>
     <task id="LOCAL-00001" summary="#position relative">
       <created>1586437147197</created>
@@ -311,7 +311,14 @@
       <option name="project" value="LOCAL" />
       <updated>1586604899481</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="# markup for header (baner +brand)">
+      <created>1586668822022</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1586668822022</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -331,7 +338,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="#background  + linear gradeint filter color effect" />
     <MESSAGE value="#background  box shadow" />
     <MESSAGE value="#transition width+duration+delay" />
     <MESSAGE value="#transition background-color + width ;-)" />
@@ -356,6 +362,7 @@
     <MESSAGE value="#navigation list hoover effect with transition before after  and cubic-beizer" />
     <MESSAGE value="#add chcecbox to create click effect to move menu from left" />
     <MESSAGE value="# create label in nasted menu icons" />
-    <option name="LAST_COMMIT_MESSAGE" value="# create label in nasted menu icons" />
+    <MESSAGE value="# markup for header (baner +brand)" />
+    <option name="LAST_COMMIT_MESSAGE" value="# markup for header (baner +brand)" />
   </component>
 </project>
