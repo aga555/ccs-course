@@ -246,6 +246,7 @@ body {
     font-weight: 400;
     letter-spacing: .2rem;
     color: #deaa86;
+
 }
 .banner{
     color: #ddd;
@@ -261,10 +262,12 @@ body {
     font-size: 7rem;
     font-weight: 400;
     margin-bottom: 0;
+    animation: anim 2s;
 }
 .banner-paragraf{
     font-size: 3.5rem;
     font-weight: 300;
+    animation: anim 1.5s 0.5s backwards;
 }
 .banner-button{
     width:21rem;
@@ -277,6 +280,7 @@ body {
     outline: none;
     background: linear-gradient(to right, gold,goldenrod);
     cursor: pointer;
+    animation: anim 1.5s 1.2s backwards;
 }
 .banner-button:hover{
     background: linear-gradient(to left, gold,goldenrod);
@@ -284,10 +288,17 @@ body {
 
 .banner-button:active{
     transform: translateY(.2rem);
-
 }
 
+@keyframes anim {
+    0%{
+        opacity: 0;
+    }
 
+    100% {
+        opacity: 1;
+    }
+}
 
 
 
