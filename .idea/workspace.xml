@@ -54,7 +54,10 @@
       <workItem from="1586267202938" duration="2591000" />
       <workItem from="1586288918112" duration="4000" />
       <workItem from="1586379675151" duration="39593000" />
-      <workItem from="1586589153298" duration="8790000" />
+      <workItem from="1586589153298" duration="9125000" />
+      <workItem from="1586605144430" duration="3379000" />
+      <workItem from="1586614073908" duration="2846000" />
+      <workItem from="1586620896866" duration="7153000" />
     </task>
     <task id="LOCAL-00001" summary="#position relative">
       <created>1586437147197</created>
@@ -301,7 +304,14 @@
       <option name="project" value="LOCAL" />
       <updated>1586598628796</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="# create label in nasted menu icons">
+      <created>1586604899481</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1586604899481</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -321,7 +331,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="#linear gradient" />
     <MESSAGE value="#background  + linear gradeint filter color effect" />
     <MESSAGE value="#background  box shadow" />
     <MESSAGE value="#transition width+duration+delay" />
@@ -346,6 +355,7 @@
     <MESSAGE value="#navigation,search input" />
     <MESSAGE value="#navigation list hoover effect with transition before after  and cubic-beizer" />
     <MESSAGE value="#add chcecbox to create click effect to move menu from left" />
-    <option name="LAST_COMMIT_MESSAGE" value="#add chcecbox to create click effect to move menu from left" />
+    <MESSAGE value="# create label in nasted menu icons" />
+    <option name="LAST_COMMIT_MESSAGE" value="# create label in nasted menu icons" />
   </component>
 </project>
