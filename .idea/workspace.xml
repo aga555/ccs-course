@@ -55,21 +55,7 @@
       <workItem from="1586589153298" duration="9125000" />
       <workItem from="1586605144430" duration="3379000" />
       <workItem from="1586614073908" duration="2846000" />
-      <workItem from="1586620896866" duration="29059000" />
-    </task>
-    <task id="LOCAL-00007" summary="#overflow: auto;">
-      <created>1586441922027</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1586441922028</updated>
-    </task>
-    <task id="LOCAL-00008" summary="#backgorind - parallax effect">
-      <created>1586443289340</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1586443289340</updated>
+      <workItem from="1586620896866" duration="29319000" />
     </task>
     <task id="LOCAL-00009" summary="#backgornd">
       <created>1586444838627</created>
@@ -400,7 +386,21 @@
       <option name="project" value="LOCAL" />
       <updated>1586706423293</updated>
     </task>
-    <option name="localTasksCounter" value="56" />
+    <task id="LOCAL-00056" summary="# fix footer increase img size on hoover- no sizing up image only sclae  with transition">
+      <created>1586706582946</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1586706582947</updated>
+    </task>
+    <task id="LOCAL-00057" summary="# fix footer   backface-visibility: hidden;">
+      <created>1586706680971</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1586706680971</updated>
+    </task>
+    <option name="localTasksCounter" value="58" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -420,8 +420,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="# flex shrink" />
-    <MESSAGE value="# project Grand Hotel" />
     <MESSAGE value="#navigation,search input" />
     <MESSAGE value="#navigation list hoover effect with transition before after  and cubic-beizer" />
     <MESSAGE value="#add chcecbox to create click effect to move menu from left" />
@@ -445,6 +443,8 @@
     <MESSAGE value="# markup footer" />
     <MESSAGE value="# foter list css" />
     <MESSAGE value="# footer increase img size on hoover" />
-    <option name="LAST_COMMIT_MESSAGE" value="# footer increase img size on hoover" />
+    <MESSAGE value="# fix footer increase img size on hoover- no sizing up image only sclae  with transition" />
+    <MESSAGE value="# fix footer   backface-visibility: hidden;" />
+    <option name="LAST_COMMIT_MESSAGE" value="# fix footer   backface-visibility: hidden;" />
   </component>
 </project>
