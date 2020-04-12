@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d38d862e-af04-4d7c-9fc2-1716346605ae" name="Default Changelist" comment="">
+    <list default="true" id="d38d862e-af04-4d7c-9fc2-1716346605ae" name="Default Changelist" comment="# markup footer">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hotel-project/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/hotel-project/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hotel-project/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/hotel-project/css/style.css" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -56,14 +56,7 @@
       <workItem from="1586589153298" duration="9125000" />
       <workItem from="1586605144430" duration="3379000" />
       <workItem from="1586614073908" duration="2846000" />
-      <workItem from="1586620896866" duration="26478000" />
-    </task>
-    <task id="LOCAL-00004" summary="#position sticky">
-      <created>1586438083112</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1586438083112</updated>
+      <workItem from="1586620896866" duration="27605000" />
     </task>
     <task id="LOCAL-00005" summary="#overflow hidden">
       <created>1586441204206</created>
@@ -401,7 +394,14 @@
       <option name="project" value="LOCAL" />
       <updated>1586700176611</updated>
     </task>
-    <option name="localTasksCounter" value="53" />
+    <task id="LOCAL-00053" summary="# markup footer">
+      <created>1586702199467</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1586702199467</updated>
+    </task>
+    <option name="localTasksCounter" value="54" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -421,7 +421,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="# flex item order" />
     <MESSAGE value="# flex item align-self" />
     <MESSAGE value="# flex grow" />
     <MESSAGE value="# flex shrink" />
@@ -446,6 +445,7 @@
     <MESSAGE value="#btnAll hoover  with transiitoin chnge  bg color and font" />
     <MESSAGE value="#markup cusmoer section" />
     <MESSAGE value="# cusmoer section css" />
-    <option name="LAST_COMMIT_MESSAGE" value="# cusmoer section css" />
+    <MESSAGE value="# markup footer" />
+    <option name="LAST_COMMIT_MESSAGE" value="# markup footer" />
   </component>
 </project>
