@@ -57,7 +57,7 @@
       <workItem from="1586589153298" duration="9125000" />
       <workItem from="1586605144430" duration="3379000" />
       <workItem from="1586614073908" duration="2846000" />
-      <workItem from="1586620896866" duration="11368000" />
+      <workItem from="1586620896866" duration="15929000" />
     </task>
     <task id="LOCAL-00001" summary="#position relative">
       <created>1586437147197</created>
@@ -346,7 +346,21 @@
       <option name="project" value="LOCAL" />
       <updated>1586671462798</updated>
     </task>
-    <option name="localTasksCounter" value="42" />
+    <task id="LOCAL-00042" summary="#diva section for tow colums using flex">
+      <created>1586673157675</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1586673157675</updated>
+    </task>
+    <task id="LOCAL-00043" summary="#make about us content flex box conainer with center elements">
+      <created>1586673393145</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1586673393145</updated>
+    </task>
+    <option name="localTasksCounter" value="44" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -366,8 +380,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="#transition+ transform :rotate" />
-    <MESSAGE value="#transition+ transform :scale" />
     <MESSAGE value="#scew" />
     <MESSAGE value="#skew" />
     <MESSAGE value="#animation @keyframes" />
@@ -391,6 +403,8 @@
     <MESSAGE value="#banner button onclick using activ- moving down" />
     <MESSAGE value="#add animation  elements appearing in order" />
     <MESSAGE value="#amark up for about us" />
-    <option name="LAST_COMMIT_MESSAGE" value="#amark up for about us" />
+    <MESSAGE value="#diva section for tow colums using flex" />
+    <MESSAGE value="#make about us content flex box conainer with center elements" />
+    <option name="LAST_COMMIT_MESSAGE" value="#make about us content flex box conainer with center elements" />
   </component>
 </project>
