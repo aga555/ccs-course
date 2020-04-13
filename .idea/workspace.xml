@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d38d862e-af04-4d7c-9fc2-1716346605ae" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hotel-project/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/hotel-project/css/style.css" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -55,14 +56,7 @@
       <workItem from="1586589153298" duration="9125000" />
       <workItem from="1586605144430" duration="3379000" />
       <workItem from="1586614073908" duration="2846000" />
-      <workItem from="1586620896866" duration="29319000" />
-    </task>
-    <task id="LOCAL-00009" summary="#backgornd">
-      <created>1586444838627</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1586444838627</updated>
+      <workItem from="1586620896866" duration="32200000" />
     </task>
     <task id="LOCAL-00010" summary="#linear gradient">
       <created>1586445215653</created>
@@ -400,7 +394,14 @@
       <option name="project" value="LOCAL" />
       <updated>1586706680971</updated>
     </task>
-    <option name="localTasksCounter" value="58" />
+    <task id="LOCAL-00058" summary="# footer  creator part">
+      <created>1586706944139</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1586706944139</updated>
+    </task>
+    <option name="localTasksCounter" value="59" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -420,7 +421,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="#navigation,search input" />
     <MESSAGE value="#navigation list hoover effect with transition before after  and cubic-beizer" />
     <MESSAGE value="#add chcecbox to create click effect to move menu from left" />
     <MESSAGE value="# create label in nasted menu icons" />
@@ -445,6 +445,7 @@
     <MESSAGE value="# footer increase img size on hoover" />
     <MESSAGE value="# fix footer increase img size on hoover- no sizing up image only sclae  with transition" />
     <MESSAGE value="# fix footer   backface-visibility: hidden;" />
-    <option name="LAST_COMMIT_MESSAGE" value="# fix footer   backface-visibility: hidden;" />
+    <MESSAGE value="# footer  creator part" />
+    <option name="LAST_COMMIT_MESSAGE" value="# footer  creator part" />
   </component>
 </project>
