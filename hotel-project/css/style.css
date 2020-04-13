@@ -730,3 +730,15 @@ body {
         font-size: 1.5rem;
     }
 }
+@media(max-width: 760px){
+    .customer-card{
+        flex-direction: column;
+        width: 20rem;
+    }
+    .customer-image{
+        margin-left: 0;
+    }
+    .footer-list{
+        display: block;
+    }
+}
