@@ -93,6 +93,7 @@ body {
     display: flex;
     align-items: center;
     transition: left .8s cubic-bezier(1, 0, 0, 1);
+    z-index: 5;
 
 
 }
@@ -703,4 +704,14 @@ body {
     .footer-list-item{
         margin: 3rem;
     }
+}
+@media  (max-width: 1200px){
+    .about-us{
+        flex-direction: column;
+        padding-bottom: 20rem;
+    }
+    .about-us-content{
+        margin-bottom: 13rem;
+    }
+    .image{width: 25rem}
 }

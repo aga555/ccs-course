@@ -56,21 +56,7 @@
       <workItem from="1586589153298" duration="9125000" />
       <workItem from="1586605144430" duration="3379000" />
       <workItem from="1586614073908" duration="2846000" />
-      <workItem from="1586620896866" duration="32200000" />
-    </task>
-    <task id="LOCAL-00010" summary="#linear gradient">
-      <created>1586445215653</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1586445215653</updated>
-    </task>
-    <task id="LOCAL-00011" summary="#background  + linear gradeint filter color effect">
-      <created>1586445950451</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1586445950451</updated>
+      <workItem from="1586620896866" duration="32822000" />
     </task>
     <task id="LOCAL-00012" summary="#background  box shadow">
       <created>1586462172292</created>
@@ -401,7 +387,21 @@
       <option name="project" value="LOCAL" />
       <updated>1586706944139</updated>
     </task>
-    <option name="localTasksCounter" value="59" />
+    <task id="LOCAL-00059" summary="# @media queries">
+      <created>1586767717848</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1586767717848</updated>
+    </task>
+    <task id="LOCAL-00060" summary="# @media queries first breakpoint 1400px">
+      <created>1586767788767</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1586767788767</updated>
+    </task>
+    <option name="localTasksCounter" value="61" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -421,8 +421,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="#navigation list hoover effect with transition before after  and cubic-beizer" />
-    <MESSAGE value="#add chcecbox to create click effect to move menu from left" />
     <MESSAGE value="# create label in nasted menu icons" />
     <MESSAGE value="# markup for header (baner +brand)" />
     <MESSAGE value="#make image more darker using linear-gradient" />
@@ -446,6 +444,8 @@
     <MESSAGE value="# fix footer increase img size on hoover- no sizing up image only sclae  with transition" />
     <MESSAGE value="# fix footer   backface-visibility: hidden;" />
     <MESSAGE value="# footer  creator part" />
-    <option name="LAST_COMMIT_MESSAGE" value="# footer  creator part" />
+    <MESSAGE value="# @media queries" />
+    <MESSAGE value="# @media queries first breakpoint 1400px" />
+    <option name="LAST_COMMIT_MESSAGE" value="# @media queries first breakpoint 1400px" />
   </component>
 </project>
