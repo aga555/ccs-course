@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d38d862e-af04-4d7c-9fc2-1716346605ae" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hotel-project/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/hotel-project/css/style.css" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -56,14 +55,7 @@
       <workItem from="1586589153298" duration="9125000" />
       <workItem from="1586605144430" duration="3379000" />
       <workItem from="1586614073908" duration="2846000" />
-      <workItem from="1586620896866" duration="32822000" />
-    </task>
-    <task id="LOCAL-00012" summary="#background  box shadow">
-      <created>1586462172292</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1586462172292</updated>
+      <workItem from="1586620896866" duration="33080000" />
     </task>
     <task id="LOCAL-00013" summary="#transition width+duration+delay">
       <created>1586463916436</created>
@@ -401,7 +393,14 @@
       <option name="project" value="LOCAL" />
       <updated>1586767788767</updated>
     </task>
-    <option name="localTasksCounter" value="61" />
+    <task id="LOCAL-00061" summary="# @media queries breakpoint 1200px">
+      <created>1586768349873</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1586768349873</updated>
+    </task>
+    <option name="localTasksCounter" value="62" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -421,7 +420,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="# create label in nasted menu icons" />
     <MESSAGE value="# markup for header (baner +brand)" />
     <MESSAGE value="#make image more darker using linear-gradient" />
     <MESSAGE value="#banner button onclick using activ- moving down" />
@@ -446,6 +444,7 @@
     <MESSAGE value="# footer  creator part" />
     <MESSAGE value="# @media queries" />
     <MESSAGE value="# @media queries first breakpoint 1400px" />
-    <option name="LAST_COMMIT_MESSAGE" value="# @media queries first breakpoint 1400px" />
+    <MESSAGE value="# @media queries breakpoint 1200px" />
+    <option name="LAST_COMMIT_MESSAGE" value="# @media queries breakpoint 1200px" />
   </component>
 </project>
